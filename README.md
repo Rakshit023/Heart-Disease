@@ -12,17 +12,17 @@ It supports following features:
 
 
 <p align="center">
-<img src="screenshots/Login.png" width="70%" height="70%" />
+<img src="https://github.com/Rakshit023/Heart-Disease/blob/main/Login.png" width="70%" height="70%" />
 </p>
 
  
  <p align="center">
-  <img src="screenshots/prediction_page_filled.png" width="70%" height="70%" />
+  <img src="https://github.com/Rakshit023/Heart-Disease/blob/main/prediction_page_filled.png" width="70%" height="70%" />
  </p>
  
  
  <p align="center">
-  <img src="screenshots/prediction_result.png" width="70%" height="70%" />
+  <img src="https://github.com/Rakshit023/Heart-Disease/blob/main/prediction_result.png" width="70%" height="70%" />
  </p>
                                                                            
 Quick start
